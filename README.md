@@ -1,2 +1,2 @@
-# analytics_java_main
-analytics_java_main
+# analytics java main
+Java project for segment.io analytics project. We are using this application for affluence insights. 
