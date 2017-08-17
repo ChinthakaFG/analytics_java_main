@@ -94,9 +94,8 @@ public class Analytics {
   /** Fluent API for creating {@link Analytics} instances. */
   public static class Builder {
     private static final Endpoint DEFAULT_ENDPOINT =
-        /*Endpoints.newFixedEndpoint("http://192.168.5.47:8082");*/
-        
-        Endpoints.newFixedEndpoint("http://10.152.4.55:8082");
+        Endpoints.newFixedEndpoint("http://192.168.5.47:8082");
+        /*Endpoints.newFixedEndpoint("http://10.152.4.55:8082");*/
 
     private static final String AUTHORIZATION_HEADER = "Authorization";
 
