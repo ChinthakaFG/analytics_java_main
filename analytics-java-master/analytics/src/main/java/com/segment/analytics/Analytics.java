@@ -96,7 +96,7 @@ public class Analytics {
     private static final Endpoint DEFAULT_ENDPOINT =
         /*Endpoints.newFixedEndpoint("http://192.168.5.47:8082");*/
         
-        Endpoints.newFixedEndpoint("http://10.152.4.55:8082");
+        Endpoints.newFixedEndpoint("http://6a17c521.ngrok.io");
 
     private static final String AUTHORIZATION_HEADER = "Authorization";
 
